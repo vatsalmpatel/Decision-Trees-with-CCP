@@ -1,0 +1,1 @@
+Code for Decision Tree with cost complexity pruning to reduce the depth of the tree as well as reducing high variance, low bias problem (overfitting) and reducing the overfitting by reducing the depth of the tree.
